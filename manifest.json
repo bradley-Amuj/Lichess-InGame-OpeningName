@@ -8,6 +8,25 @@
     "content_scripts":[
         {
         "matches":["https://lichess.org/*"],
+        "exclude_matches":[
+            "https://lichess.org/player*",
+            "https://lichess.org/analysis*",
+            "https://lichess.org/training*",
+            "https://lichess.org/practice*",
+            "https://lichess.org/team/all*",
+            "https://lichess.org/editor*",
+            "https://lichess.org/paste*",
+            "https://lichess.org/games/search*",
+            "https://lichess.org/forum*",
+            "https://lichess.org/blog/community*",
+            "https://lichess.org/streamer*",
+            "https://lichess.org/video*",
+            "https://lichess.org/signup*",
+            "https://lichess.org/streak*",
+            "https://lichess.org/storm*",
+            "https://lichess.org/racer*"
+
+        ],
         "js":["main.js"]
         }
 
