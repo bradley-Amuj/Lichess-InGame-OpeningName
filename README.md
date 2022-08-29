@@ -12,6 +12,10 @@ The extension uses the same names that Lichess uses in the opening explorer duri
 - Enable developer mode
 - Click load unpacked and load the folder your had cloned
 
+## Extension in action 
+<img src="https://github.com/bradley-Amuj/Lichess-InGame-OpeningName/blob/master/OpeningExt.gif" width="40" height="40" />
+
+
 ## Contributions
 
 If you experience any issue please feel free to open an [Issue](https://github.com/bradley-Amuj/Lichess-InGame-OpeningName/issues)
