@@ -10,7 +10,7 @@ The extension uses the same names that Lichess uses in the opening explorer duri
 - Clone the repository
 - Go to Google chrome and open the extension section under settings
 - Enable developer mode
-- Click load unpacked and load the folder your had cloned
+- Click load unpacked and load the folder you had cloned
 
 ## Extension in action 
 <img src="https://github.com/bradley-Amuj/Lichess-InGame-OpeningName/blob/master/OpeningExt.gif"/>
