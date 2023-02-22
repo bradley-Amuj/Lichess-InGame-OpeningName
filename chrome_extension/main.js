@@ -34,7 +34,7 @@ xhttp.send();
 
 const readMoves = (node)=>{
   const handler = ()=>{
-      const moves = node.querySelectorAll("u8t");
+      const moves = node.querySelectorAll("kwdb");
       let moves_list = ""
       let move_number  = 1;
       let pattern = 1;
@@ -71,4 +71,3 @@ const input_modification = (moves) =>{
 console.log("What's the Opening Exension is Running");
 const node = document.querySelector('rm6');
 readMoves(node);
-
